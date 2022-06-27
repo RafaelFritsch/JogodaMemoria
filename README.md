@@ -1,3 +1,8 @@
-Jogo da Memória
+# JOGO DA MEMÓRIA
 
-Construindo com HTLM / CSS /JS
+## Screenshots
+
+![screenshot](Animação.gif)
+
+## Project using HTML CSS JS:
+
