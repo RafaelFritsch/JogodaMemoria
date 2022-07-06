@@ -2,7 +2,7 @@ main {
   display: flex;
   flex-direction: column;
   width: 100%;
-  background-color: rgb(150, 189, 240);
+  background-image: url('../images/bg.jpg');
   background-size: cover;
   min-height: 100vh;
   align-items: center;
@@ -14,14 +14,13 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: rgba(255,255,255,0.8);
+  background-color: rgba(255, 255, 255, 0.8);
   font-size: 1.2em;
   width: 100%;
   max-width: 800px;
   padding: 30px;
   margin: 0 0 30px;
   border-radius: 5px;
-
 }
 
 .grid {
