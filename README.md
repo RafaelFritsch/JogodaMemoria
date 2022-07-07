@@ -6,7 +6,7 @@
 
 ## Projeto usando HTML CSS JS:
 
-Projeto aplicando os conhecimento que ainda está em construção para implementar outras funcionalidades.
+Projeto de estudos que está em construção para implementar outras funcionalidades.
 
 
 
