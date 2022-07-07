@@ -4,5 +4,9 @@
 
 ![screenshot](Animação.gif)
 
-## Project using HTML CSS JS:
+## Projeto usando HTML CSS JS:
+
+Projeto aplicando os conhecimento que ainda está em construção para implementar outras funcionalidades.
+
+
 
